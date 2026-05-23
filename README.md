@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pin.it/3RcmJxify" width="100%" />
+  <img src=https://pin.it/4kAjYTB0Xwidth="100%" />
 </p>
 <h1 align="center">
 💜 Turning data into insights 

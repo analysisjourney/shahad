@@ -1,3 +1,4 @@
+<h1 align="center">
 💜 Turning data into insights 
 </h1>
 

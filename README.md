@@ -24,4 +24,4 @@ Excel ⟡ SQL ⟡ Power BI ⟡ Data Analysis ⟡ Business Analysis
 - Creating dashboards & KPI reports
 - Improving data storytelling skills
 
-  https://i.pinimg.com/736x/ee/2c/59/ee2c596944ed38d59779852c9908ad53.jpg
+

@@ -10,9 +10,6 @@ Business Administration Graduate ⟡ Aspiring BI & Data Analytics Professional
 
 ---
 
-<img align="right" width="800" height="780" alt="1a9e1384057f46dfd23d3dcda0de1cb0" src="https://github.com/user-attachments/assets/16b651c4-4acb-4de5-b617-c6201ab27499" />
-
-
 ## ◈ About Me
 - 📊 Interested in Data Analytics & Business Intelligence
 - 📈 Building practical projects using Excel   

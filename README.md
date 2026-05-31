@@ -1,7 +1,7 @@
 <img width="1200" height="313" alt="d86ee3f2495d026abf48a54ccbe8a45f" src="https://github.com/user-attachments/assets/2e71dc61-a523-4265-87cf-2d88db36f4c8" />
 
 <h1 align="center">
-💜 Turning data into insights 
+⚙️Turning data into insights 
 </h1>
 
 <p align="center">
